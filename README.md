@@ -11,7 +11,9 @@ Link   : [The Art of Prompt Engineering](https://cognitiveclass.ai/courses/cours
 
 #### Mentee Information
 Name : Redoti Zulfikar Sasongko
+
 Program : IBM Advance AI
+
 Mentor : Agistira Lamunde
 
 Tech Stack:
