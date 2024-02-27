@@ -2,7 +2,7 @@
  
 ---
 
-## Author : [Cognitive Class](https://cognitiveclass.ai/) 
+### Author : [Cognitive Class](https://cognitiveclass.ai/) 
 Link   : [The Art of Prompt Engineering](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1?authuser=0)
 
 ### Mentee assignment from IBM Advance AI @ Inifite Learning Course completion of The Art of Prompt Engineering from [Cognitive Class](https://cognitiveclass.ai/)
@@ -10,9 +10,9 @@ Link   : [The Art of Prompt Engineering](https://cognitiveclass.ai/courses/cours
 ---
 
 #### Mentee Information
-##### Name : Redoti Zulfikar Sasongko
-##### Program : IBM Advance AI
-##### Mentor : Agistira Lamunde
+Name : Redoti Zulfikar Sasongko
+Program : IBM Advance AI
+Mentor : Agistira Lamunde
 
 Tech Stack:
 - Python
